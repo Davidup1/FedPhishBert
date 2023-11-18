@@ -10,15 +10,15 @@ In order to safeguard user data privacy, we employed a decentralized URL dataset
 
 - Over all framework
 
-  ![framework](.\media\framework.png)
+  ![framework](./media/framework.png)
 
 - Pre-train stage
 
-  ![Pre-Train](.\media\Pre-Train.png)
+  ![Pre-Train](./media/Pre-Train.png)
 
 - Fine-tuning stage
 
-  ![fine-tuning](.\media\fine-tuning.png)
+  ![fine-tuning](./media/fine-tuning.png)
 
 ### Directory Guide
 
