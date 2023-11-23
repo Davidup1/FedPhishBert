@@ -1,6 +1,6 @@
-# FedPhishBERT: Training BERT-based Phishing URL Detection Model on Decentralized Data
+# FedURLBERT: Efficient Federated Learning on Pre-Trained Language Models for Detecting Malicious URL
 
-This is an implementation of the paper - "FedPhishBERT: Training BERT-based Phishing URL Detection Model on Decentralized Data"
+This is an implementation of the paper - "FedURLBERT: Efficient Federated Learning on Pre-Trained Language Models for Detecting Malicious URL"
 
 ### Overview
 
